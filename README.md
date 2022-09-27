@@ -1,0 +1,3 @@
+# sveletekit-optional-dependency-issue
+
+
